@@ -1,10 +1,3 @@
-//
-//  ViewController.m
-//  ec-bt-objC
-//
-//  Created by Kumari, Reena on 2/18/19.
-//  Copyright © 2019 Kumari, Reena. All rights reserved.
-//
 
 #import "ViewController.h"
 #import "BraintreePayPal.h"
